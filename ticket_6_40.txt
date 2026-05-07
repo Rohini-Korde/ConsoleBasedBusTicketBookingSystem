@@ -1,0 +1,9 @@
+========== BUS TICKET ==========
+Booking ID : 40
+Passenger  : mohini
+Bus        : Shivneri
+Route      : Pune -> Mumbai
+Travel Date: 2026-02-20
+Seat No    : 24
+Price      : ₹500.0
+================================
